@@ -10576,23 +10576,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\This PC\\.nuget\\packages\\": {},
+    "D:\\VS\\VSShared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ITProject\\dotNET\\PBL3_tosanoob_branch\\PBL3\\PBL3.csproj",
+      "projectUniqueName": "E:\\ITProject\\dotnet\\PBL3_tosanoob_branch\\PBL3\\PBL3.csproj",
       "projectName": "PBL3",
-      "projectPath": "E:\\ITProject\\dotNET\\PBL3_tosanoob_branch\\PBL3\\PBL3.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\ITProject\\dotNET\\PBL3_tosanoob_branch\\PBL3\\obj\\",
+      "projectPath": "E:\\ITProject\\dotnet\\PBL3_tosanoob_branch\\PBL3\\PBL3.csproj",
+      "packagesPath": "C:\\Users\\This PC\\.nuget\\packages\\",
+      "outputPath": "E:\\ITProject\\dotnet\\PBL3_tosanoob_branch\\PBL3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\VS\\VSShared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\This PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -10664,7 +10664,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
