@@ -1,10 +1,14 @@
 using PBL3.Models.Entities;
+using PBL3.Models.Guest_Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<LibraryManagementContext>();
+
+builder.Services.AddScoped<IGuestLogin,GuestLogin>();
+
 
 var app = builder.Build();
 
