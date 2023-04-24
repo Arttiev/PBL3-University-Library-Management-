@@ -580,3 +580,4 @@ E:\ITProject\dotnet\PBL3_tosanoob_branch\PBL3\obj\Debug\net6.0\refint\PBL3.dll
 E:\ITProject\dotnet\PBL3_tosanoob_branch\PBL3\obj\Debug\net6.0\PBL3.pdb
 E:\ITProject\dotnet\PBL3_tosanoob_branch\PBL3\obj\Debug\net6.0\PBL3.genruntimeconfig.cache
 E:\ITProject\dotnet\PBL3_tosanoob_branch\PBL3\obj\Debug\net6.0\ref\PBL3.dll
+E:\ITProject\dotNET\PBL3_tosanoob_branch\PBL3\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
