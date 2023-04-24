@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PBL3",
+    "\\PBL3\\Views",
+    "\\PBL3\\Views\\Home"
   ],
-  "SelectedNode": "\\PBL3.sln",
+  "SelectedNode": "\\PBL3\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
