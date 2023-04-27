@@ -36,7 +36,7 @@ public partial class LibraryManagementContext : DbContext
     public virtual DbSet<Title> Titles { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Name=LibraryManagement");
+        => optionsBuilder.UseSqlServer("Data Source=LAPTOP-K0DRUKC8;Initial Catalog=LibraryManagement;Integrated Security=True;TrustServerCertificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

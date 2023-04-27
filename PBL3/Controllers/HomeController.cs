@@ -15,7 +15,6 @@ namespace PBL3.Controllers
         {
             _logger = logger;
         }
-
         public async Task<IActionResult> Index(string name)
         {
             LibraryManagementContext context = new LibraryManagementContext();
